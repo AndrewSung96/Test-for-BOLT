@@ -3,6 +3,8 @@
 %forced external flow, with constant velocity and constant film
 %temperature.
 
+%Must account for crossflow
+
 clear all
 format compact
 
