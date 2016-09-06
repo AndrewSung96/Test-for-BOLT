@@ -8,6 +8,8 @@
 clear all
 format compact
 
+GithubTest=1;
+
 disp('Flat Plate External Convection for Air')
 u=input('Enter Free Stream Velocity [m/s]:'); 
 L=input('Enter Length of Plate [m]:');
